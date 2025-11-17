@@ -91,6 +91,4 @@ Aku percaya bahwa *kreativitas + teknologi = karya tanpa batas*.
 
 ---
 
-## ✨ Terima kasih sudah mampir!
-
-Kalau mau dibuatkan versi yang **lebih lucu**, **lebih clean**, atau **lebih anime aesthetic**, tinggal bilang aja ya! 🌸
+## ✨ Terima kasih sudah mampir! 🌸
