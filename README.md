@@ -48,6 +48,7 @@ Aku percaya bahwa *kreativitas + teknologi = karya tanpa batas*.
   <a href="https://instagram.com/username" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://github.com/username" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://twitter.com/username" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.wattpad.com/user/0tokodayo_" target="_blank"><img src="https://img.shields.io/badge/Wattpad-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
 ---
